@@ -56,7 +56,9 @@ jupyter-notebook .
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Dashboard yang dibuat menggunakan Aplikasi Tableau Public. Link untuk melihat dashboard: https://public.tableau.com/app/profile/muhamad.alif.ramadhan/viz/AttritionAnalysis_17449124618950/Dashboard
+
+Dashboard tersebut dikembangkan dengan tujuan untuk memudahkan menyelesaikan Permasalahan departemen Human Resources (HR) dalam analisa kriteria karyawan yang melakukan pengunduran diri. Agar dapat memudahkan dalam membaca dashboard, terdapat 2 warna berbeda yakni Biru (NO) untuk karyawan yang mengundurkan diri dan Hijau (Yes) untuk karyawan yang tidak melakukan pengunduran diri.
 
 ## Conclusion
 
