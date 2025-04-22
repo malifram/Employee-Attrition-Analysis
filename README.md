@@ -62,7 +62,7 @@ Dashboard tersebut dikembangkan dengan tujuan untuk memudahkan menyelesaikan Per
 
 ## Conclusion
 Hasil yang diperoleh setelah dilakukan analisis dapat disimpulkan sebagai berikut:
-1. Dari jenis kelamin baik laki-laki maupun perempuan yang mengundurkan diri tidak jauh berdeda yaitu 5 - 8%. Begitu juga dari 3 status perkawinan yaitu 4 - 7 %, dan melakukan pengunduran diri terbanyak ada pada status Single/lajang (7%).
+1. Dari jenis kelamin baik laki-laki maupun perempuan yang mengundurkan diri tidak jauh berbeda yaitu 5 - 8%. Begitu juga dari 3 status perkawinan yaitu 4 - 7 %, dan melakukan pengunduran diri terbanyak ada pada status Single/lajang (7%).
 2. Karyawan berdasarkan 3 Department secara keseluruhan yang melakukan pengunduran diri terbanyak ada pada Department Research & Development sebesar 8.37%. Juga dapat dilihat pada Job Role yang mengundurkan diri teratas ada pada Laboratory Technician (57 Karyawan), kemudian disusul Research Scientist (46 Karyawan) dan Sales Executive (40 Karyawan).
 3. Dari sisi Business Travel, semakin jarang karyawan yang melakukan perjalanan bisnis, semakin besar peluang karyawan untuk mengundurkan diri.
 4. Dari segi kepuasan karyawan (Job Satisfaction & Relationship Satisfaction) yang melakukan pengunduran diri selalu dibawah rata-rata karyawan yang tidak melakukan pengunduran diri. Faktor karyawan yang mengundurkan diri memang sudah tidak puas dari segi pekerjaan, relasi maupun lingkungan.
