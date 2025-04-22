@@ -77,5 +77,10 @@ Hasil yang diperoleh setelah dilakukan analisis dapat disimpulkan sebagai beriku
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
-- action item 1
-- action item 2
+1. Tingkat pengunduran diri lebih tinggi pada karyawan lajang dan level pemula. Perusahaan dapat mengembangkan program dukungan seperti mentoring, pengembangan karier awal, dan aktivitas sosial untuk meningkatkan keterikatan mereka.
+2. Karena kepuasan kerja dan hubungan antar karyawan yang rendah berkorelasi dengan pengunduran diri, penting untuk melakukan survei kepuasan rutin dan membangun budaya kerja yang lebih terbuka serta suportif.
+3. Karyawan yang lembur cenderung lebih tinggi tingkat pengunduran dirinya. Evaluasi sistem lembur dan pastikan keseimbangan antara beban kerja dan work-life balance terpenuhi.
+4. Karyawan yang jarang melakukan perjalanan bisnis lebih banyak mengundurkan diri. Pertimbangkan untuk melibatkan mereka lebih aktif dalam kegiatan luar kantor atau proyek lintas divisi.
+5.Departemen Research & Development serta peran teknisi laboratorium menunjukkan tingkat pengunduran diri tinggi. Perlu dilakukan evaluasi terhadap beban kerja, peluang pengembangan, dan kepuasan kerja pada segmen ini.
+6. Karena lulusan sarjana khususnya dari bidang Life Sciences dan Medical memiliki tingkat pengunduran diri tinggi, penting untuk menciptakan jalur karier yang transparan dan peluang peningkatan kompetensi.
+7. Karyawan dengan masa kerja pendek (0–5 tahun) lebih cenderung mengundurkan diri. Buat program retensi khusus untuk karyawan baru seperti onboarding, pelatihan berkelanjutan, dan penilaian awal karier.
