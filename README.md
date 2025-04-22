@@ -61,8 +61,17 @@ Dashboard yang dibuat menggunakan Aplikasi Tableau Public. Link untuk melihat da
 Dashboard tersebut dikembangkan dengan tujuan untuk memudahkan menyelesaikan Permasalahan departemen Human Resources (HR) dalam analisa kriteria karyawan yang melakukan pengunduran diri. Agar dapat memudahkan dalam membaca dashboard, terdapat 2 warna berbeda yakni Biru (NO) untuk karyawan yang mengundurkan diri dan Hijau (Yes) untuk karyawan yang tidak melakukan pengunduran diri.
 
 ## Conclusion
-
-Jelaskan konklusi dari proyek yang dikerjakan.
+Hasil yang diperoleh setelah dilakukan analisis dapat disimpulkan sebagai berikut:
+1. Dari jenis kelamin baik laki-laki maupun perempuan yang mengundurkan diri tidak jauh berdeda yaitu 5 - 8%. Begitu juga dari 3 status perkawinan yaitu 4 - 7 %, dan melakukan pengunduran diri terbanyak ada pada status Single/lajang (7%).
+2. Karyawan berdasarkan 3 Department secara keseluruhan yang melakukan pengunduran diri terbanyak ada pada Department Research & Development sebesar 8.37%. Juga dapat dilihat pada Job Role yang mengundurkan diri teratas ada pada Laboratory Technician (57 Karyawan), kemudian disusul Research Scientist (46 Karyawan) dan Sales Executive (40 Karyawan).
+3. Dari sisi Business Travel, semakin jarang karyawan yang melakukan perjalanan bisnis, semakin besar peluang karyawan untuk mengundurkan diri.
+4. Dari segi kepuasan karyawan (Job Satisfaction & Relationship Satisfaction) yang melakukan pengunduran diri selalu dibawah rata-rata karyawan yang tidak melakukan pengunduran diri. Faktor karyawan yang mengundurkan diri memang sudah tidak puas dari segi pekerjaan, relasi maupun lingkungan.
+5. Karyawan berdasarkan segmen yang melakukan pengunduran diri terbanyak ada pada kategori Entry-Level (5.9%) dan Mid-Level (4.7%). Kedua segmen ini memiliki kesamaan pada tahun peran pekerjaan saat ini dan lama tahun di perusahaan selama 0-5 tahun.
+6. Dari segi Work Life Balance, karyawan yang mengundurkan diri ada pada kategori Excellent (7.2%) tetapi juga banyak karyawan yang menetap pada perusahaan (53.5%).
+7. Karyawan yang melakukan lembur lebih banyak mengundurkan diri dari pada karyawan yang tidak lembur dengan presentase sebesar 7%.
+8. Dari segi pendidikan, karyawan yang mengundurkan diri tertinggi ada pada tingkat lulusan Sarjana/Bachelor sebesar 6.2% dan dari segi bidang pendidikan adalah Life Sciences (5.1%), Medical (3.7%) dan Marketing (2%).
+9. Dari sisi performa, tidak terdapat perbedaan yang signifikan antara karyawan yang mengundurkan diri dan yang tetap bekerja. Dengan kata lain, kedua kategori nilai performa karyawan tersebut relatif sama.
+10. Dilihat dari segi rata-rata tahunan, karyawan yang tidak mengundurkan diri memiliki masa kerja yang lebih lama di semua aspek dibandingkan dengan karyawan yang mengundurkan diri. Menunjukkan bahwa lamanya masa kerja berkorelasi dengan keputusan karyawan untuk tetap bertahan di perusahaan.
 
 ### Rekomendasi Action Items (Optional)
 
